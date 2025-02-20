@@ -6,3 +6,4 @@
 ## Nội dung: làm quen với AI
 
 # APPINVENTOR
+https://github.com/HuynhDangKhoa11ch1/aistarting/blob/29824d4bb78cd13e649d33a67f9d6ea0ad2d0fe1/ChatBotStarter.aia
