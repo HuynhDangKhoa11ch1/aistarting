@@ -4,7 +4,7 @@
 ## giảng viên : # Đỗ Như Tài
 ## Học sinh: Huỳnh Đăng Khoa
 ## Nội dung: làm quen với AI
-
+#
 ## note: click the link -> view raw -> load the app
 # APPINVENTOR
 ### CHATBOT 
