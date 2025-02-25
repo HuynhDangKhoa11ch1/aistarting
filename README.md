@@ -12,3 +12,6 @@ https://github.com/HuynhDangKhoa11ch1/aistarting/blob/29824d4bb78cd13e649d33a67f
 #
 ### MOODTRACKER:
 https://github.com/HuynhDangKhoa11ch1/aistarting/blob/42da17c6862489b20071be3bc9ba8e619732a05b/moodtrack/MoodTracker_template%20(1).aia
+### The lakes - visualizer
+https://github.com/HuynhDangKhoa11ch1/aistarting/blob/9f4cdd50686400269eccf9b6f29ddfaaf79cd949/DataScience%20App%20-%20Survey%20Topic/Lake_Ice_Visualizer_template%20(1).aia
+### the lakes - lobfcoded
